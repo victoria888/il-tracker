@@ -1,0 +1,14 @@
+.nav-link.it-link{
+  padding: 0.5rem 0;
+}
+.navbar.it-nav{
+  padding: 1rem;
+}
+.it-nav .nav-item{
+  margin-right: 1rem;
+}
+
+.nav-link.it-link:hover, 
+.nav-link.it-link:active{
+  border-bottom: 1px solid #fb8c00;
+}
