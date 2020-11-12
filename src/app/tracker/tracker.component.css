@@ -1,0 +1,25 @@
+.it-table--head {
+    color: green;
+    font-weight: 600;
+}
+.it-table--info{
+    background-color: #c4c4c4;
+    color: #4b3838;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+.it-form{
+    justify-content: center;
+}
+.btn.btn-it {
+    background-color: #fb8c00;
+    color: #ffffff;
+}
+.it-table--sub-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.it-table--sub-info p{
+    margin: 1rem;
+}
