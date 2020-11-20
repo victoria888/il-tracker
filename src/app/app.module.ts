@@ -7,6 +7,7 @@ import { TrackerComponent } from './tracker/tracker.component';
 import { HeaderComponent } from './utils/header/header.component';
 import { FooterComponent } from './utils/footer/footer.component';
 import { HomeComponent } from './utils/home/home.component';
+import { ShipFormComponent } from './shipform/ship-form/ship-form.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { HomeComponent } from './utils/home/home.component';
     TrackerComponent,
     HeaderComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
+    ShipFormComponent
   ],
   imports: [
     BrowserModule,

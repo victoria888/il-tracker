@@ -82,12 +82,13 @@
 .second-column {
   display: flex;
   flex-direction: row;
-  color: #ffffff;
+  
 }
 
 .second-column--one {
   background-color: #fb8c00;
   padding: 6rem;
+  color: #ffffff;
 }
 .second-column--two img {
   width: 500px;

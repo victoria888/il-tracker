@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { TrackerComponent } from './tracker/tracker.component';
 import { HomeComponent } from './utils/home/home.component';
+import { ShipFormComponent } from './shipform/ship-form/ship-form.component';
 
 const routes: Routes = [
   {
@@ -12,6 +13,10 @@ const routes: Routes = [
     path:'',
     component: HomeComponent,
   },
+  {
+    path:'shipment',
+    component: ShipFormComponent,
+  }
 
 ];
 

@@ -1,0 +1,12 @@
+.ship-form--box{
+    padding: 2rem;
+    background-color: bisque;
+    margin: 2rem auto;
+}
+.ship-form--box p{
+    color: #707070;
+    font-weight: 700;
+}
+.ship-form-control{
+    margin-bottom: 1rem
+}
